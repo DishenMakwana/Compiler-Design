@@ -1,0 +1,1 @@
+{"name":"Local: left_factor","url":"d:\\CD\\left factor\\left_factor.cpp","tests":[{"id":1633756102485,"input":"S\n3\niEtS\niEtSeS\na","output":""},{"id":1633756597267,"input":"A\n2\nXyz\nXz","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CD\\left factor\\left_factor.cpp","group":"local","local":true}

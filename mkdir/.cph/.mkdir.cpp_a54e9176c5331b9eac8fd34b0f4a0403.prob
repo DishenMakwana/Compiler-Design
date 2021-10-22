@@ -1,0 +1,1 @@
+{"name":"Local: mkdir","url":"d:\\CD\\mkdir\\mkdir.cpp","tests":[{"id":1625028761380,"input":"mkdir \ncdkks","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CD\\mkdir\\mkdir.cpp","group":"local","local":true}

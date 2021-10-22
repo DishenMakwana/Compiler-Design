@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"d:\\CD\\Left recursion\\code.cpp","tests":[{"id":1628660702748,"input":"B \n2\nBe b","output":""},{"id":1633753112139,"input":"A\n3  \nABd Aa a","output":"L\n4\ni iL (L) iL+L"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CD\\Left recursion\\code.cpp","group":"local","local":true}

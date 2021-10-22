@@ -1,0 +1,14 @@
+#include "bits/stdc++.h"
+using namespace std;
+
+int32_t main()
+{
+    // string str;
+    // getline(cin, str);
+    char filename[20];
+    cin >> filename;
+    ifstream fin(filename);
+    if
+    while
+    for (int i = 0; i <)
+}
